@@ -1,6 +1,6 @@
 # PIDtoy_P4
 
-A wheel on a motor, position-controlled by adjustable PID parameters.\n
+A wheel on a motor, position-controlled by adjustable PID parameters.
 Written in Processing 4.
 Drag sliders to set; mouseover and mousewheel up/down for nonlinear adjustment.
 Drag setpoint to move it.
